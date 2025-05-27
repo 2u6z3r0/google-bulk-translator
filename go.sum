@@ -1,0 +1,4 @@
+github.com/zijiren233/google-translator v1.0.1 h1:pQESPiTteOrk3gKxs/wXYHgqZR4sB0Q7QcwOAkF+IyI=
+github.com/zijiren233/google-translator v1.0.1/go.mod h1:Cto5Y9lA6Gn3i0IA1s5MsZJgDpb/71kBhao2yOv1zK4=
+golang.org/x/text v0.13.0 h1:ablQoSUd0tRdKxZewP80B+BaqeKJuVhuRxj/dkrun3k=
+golang.org/x/text v0.13.0/go.mod h1:TvPlkZtksWOMsz7fbANvkp4WM8x/WCo/om8BMLbz+aE=
